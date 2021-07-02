@@ -25,3 +25,5 @@ of motor and battery directly. Now, we only have two -ve terminals. Connect the 
 Relay signal as LOW. The light on Relay is on. Now if we connect the -ve terminal of dc motor to the Normal open(Right in the pic) the motor works. When the same wire is connected to other terminal it doesnt operate.<br>
 The other way is to connect the -ve terminal of the motor to Normally closed(Left in the pic) and give a signal HIGH to Relay. It works and if connected to other terminal it doesnt operate.<br>
 In a nutshell, It is just like a switch and its operation can be controlled using the signal pin from GPIO pins on the boards like Arduino Uno, Mega, Node MCU etc.
+
+  <b>Demo:</b> <a href="https://drive.google.com/file/d/1G6nYSn1oq_ZSCiegJK6c5PXyeWOtGuO0/view?usp=sharing"> Link</a>
